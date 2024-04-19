@@ -1,6 +1,9 @@
-
+---
+layout: default
+title: Deep White Systems
+---
 # Welcome to Deep White Systems
-![Deep White Systems Logo](/Deep White logo.jpeg)
+![Deep White Systems Logo](/DeepWhitelogo.png)
 We are Deep White Systems, a cutting-edge technology company specializing in artificial intelligence and deep learning solutions. Our mission is to revolutionize industries through innovative and intelligent software products.
 
 ## About Us
