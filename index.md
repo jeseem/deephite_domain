@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Deep White Systems
 ---
 # Welcome to Deep White Systems
