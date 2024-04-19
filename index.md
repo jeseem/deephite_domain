@@ -40,19 +40,7 @@ title: Deep White Systems
   </div>
 </div>
 
-## Client Testimonials
 
-<div class="testimonials">
-  <blockquote>
-    Deep White Systems transformed our operations with their AI-powered solutions. Highly recommended!
-    <footer>- John Doe, CEO at Acme Inc.</footer>
-  </blockquote>
-
-  <blockquote>
-    Exceptional service and results. Their expertise in deep learning is unmatched!
-    <footer>- Jane Smith, CTO at Tech Innovations</footer>
-  </blockquote>
-</div>
 
 ## Contact Us
 
