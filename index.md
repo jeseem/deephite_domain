@@ -5,7 +5,7 @@ title: Deep White Systems
 # Welcome to Deep White Systems
 
 <!-- Adjust the size of the logo using HTML -->
-<img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="200" height="auto">
+<img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="100" height="auto">
 
 
 
