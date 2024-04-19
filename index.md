@@ -46,9 +46,6 @@ Explore some of our recent projects:
 
 Ready to harness the power of AI for your business? Get in touch with us:
 
-- **Email**: info@deepwhitesystems.com
-- **Phone**: +1 (123) 456-7890
-- **Address**: 123 Tech Park Avenue, City, Country
 
 Follow us on [LinkedIn](https://www.linkedin.com/deepwhitesystems) for updates and insights.
 
