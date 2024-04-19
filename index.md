@@ -3,6 +3,10 @@ layout: default
 title: Deep White Systems
 ---
 # Welcome to Deep White Systems
+
+<!-- Adjust the size of the logo using HTML -->
+<img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="200" height="auto">
+
 ![Deep White Systems Logo](/DeepWhitelogo.png)
 We are Deep White Systems, a cutting-edge technology company specializing in artificial intelligence and deep learning solutions. Our mission is to revolutionize industries through innovative and intelligent software products.
 
