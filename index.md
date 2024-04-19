@@ -8,47 +8,55 @@ title: Deep White Systems
 <img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="100" height="auto">
 
 
+---
 
 
-We are Deep White Systems, a cutting-edge technology company specializing in artificial intelligence and deep learning solutions. Our mission is to revolutionize industries through innovative and intelligent software products.
+## We specialize in AI and deep learning solutions.
 
-## About Us
+<div class="hero">
+  <p>Revolutionizing industries through innovative and intelligent software products.</p>
+  <a href="/contact/" class="btn-primary">Get Started</a>
+</div>
 
-At Deep White Systems, we believe in the power of AI to transform businesses and enhance human capabilities. Our team consists of passionate AI engineers, data scientists, and software developers dedicated to pushing the boundaries of technology.
+## Services We Offer
 
-## Services
+<div class="services">
+  <div class="service-item">
+    <i class="fas fa-cogs"></i>
+    <h3>AI Consulting</h3>
+    <p>Expert AI consulting services to drive business value.</p>
+  </div>
 
+  <div class="service-item">
+    <i class="fas fa-eye"></i>
+    <h3>Custom AI Solutions</h3>
+    <p>Developing tailored AI solutions for diverse business needs.</p>
+  </div>
 
-### Custom AI Solutions
+  <div class="service-item">
+    <i class="fas fa-chart-line"></i>
+    <h3>Data Science</h3>
+    <p>Extracting actionable insights from complex datasets.</p>
+  </div>
+</div>
 
-We develop custom AI solutions tailored to your specific needs. From computer vision systems to natural language processing applications, we deliver robust and scalable AI solutions that drive business value.
+## Client Testimonials
 
-### Data Science
+<div class="testimonials">
+  <blockquote>
+    Deep White Systems transformed our operations with their AI-powered solutions. Highly recommended!
+    <footer>- John Doe, CEO at Acme Inc.</footer>
+  </blockquote>
 
-Our data science expertise enables us to extract actionable insights from complex datasets. We apply advanced analytics and machine learning algorithms to uncover patterns and make informed decisions.
-
-## Technologies
-
-We specialize in the following technologies:
-
-- **Machine Learning**: Implementing state-of-the-art machine learning models.
-- **Deep Learning**: Developing neural network architectures for various applications.
-- **Computer Vision**: Building computer vision systems for image and video analysis.
-- **Natural Language Processing (NLP)**: Creating NLP solutions for text analysis and understanding.
-
-## Projects
-
-Explore some of our recent projects:
-
-- **Retail Analytics Platform**: Real-time customer behavior analysis using computer vision.
-- **Healthcare Predictive Modeling**: Predicting patient outcomes using machine learning algorithms.
-- **Financial Risk Assessment**: Automated risk assessment using AI-powered tools.
+  <blockquote>
+    Exceptional service and results. Their expertise in deep learning is unmatched!
+    <footer>- Jane Smith, CTO at Tech Innovations</footer>
+  </blockquote>
+</div>
 
 ## Contact Us
 
-Ready to harness the power of AI for your business? Get in touch with us:
-
-
-Follow us on [LinkedIn](https://www.linkedin.com/deepwhitesystems) for updates and insights.
-
-Let's shape the future with AI together!
+<div class="contact">
+  <p>Ready to harness the power of AI for your business?</p>
+  <a href="/contact/" class="btn-secondary">Contact Us</a>
+</div>
