@@ -1,0 +1,73 @@
+/* Styles for Hero Section */
+.hero {
+  background-color: #f8f9fa;
+  padding: 80px 20px;
+  text-align: center;
+}
+
+.hero p {
+  font-size: 18px;
+  margin-bottom: 20px;
+}
+
+.btn-primary {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #007bff;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-primary:hover {
+  background-color: #0056b3;
+}
+
+/* Styles for Services Section */
+.services {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 60px;
+}
+
+.service-item {
+  text-align: center;
+}
+
+.service-item i {
+  font-size: 36px;
+  color: #007bff;
+}
+
+/* Styles for Testimonials Section */
+.testimonials {
+  margin-top: 60px;
+}
+
+blockquote {
+  font-style: italic;
+  margin-bottom: 20px;
+}
+
+blockquote footer {
+  font-weight: bold;
+}
+
+/* Styles for Contact Section */
+.contact {
+  text-align: center;
+  margin-top: 60px;
+}
+
+.btn-secondary {
+  display: inline-block;
+  padding: 12px 24px;
+  background-color: #28a745;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn-secondary:hover {
+  background-color: #1e7e34;
+}
