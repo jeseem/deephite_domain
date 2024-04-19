@@ -1,7 +1,3 @@
----
-layout: default
-title: Deep White Systems
----
 
 # Welcome to Deep White Systems
 ![Deep White Systems Logo](/Deep White logo.jpeg)
