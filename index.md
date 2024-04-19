@@ -17,7 +17,7 @@ title: Deep White Systems
   }
 
   h1 {
-    font-size: 32px;
+    font-size: 20px;
     color: #007bff;
   }
 
