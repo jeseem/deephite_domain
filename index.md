@@ -9,7 +9,31 @@ title: Deep White Systems
 
 
 ---
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #f8f9fa;
+    color: #333;
+  }
 
+  h1 {
+    font-size: 32px;
+    color: #007bff;
+  }
+
+  .btn-primary {
+    display: inline-block;
+    padding: 12px 24px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+  }
+
+  .btn-primary:hover {
+    background-color: #0056b3;
+  }
+</style>
 
 ## We specialize in AI and deep learning solutions.
 
