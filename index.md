@@ -7,7 +7,7 @@ title: Deep White Systems
 <!-- Adjust the size of the logo using HTML -->
 <img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="200" height="auto">
 
-![Deep White Systems Logo](/DeepWhitelogo.png)
+
 We are Deep White Systems, a cutting-edge technology company specializing in artificial intelligence and deep learning solutions. Our mission is to revolutionize industries through innovative and intelligent software products.
 
 ## About Us
@@ -16,9 +16,6 @@ At Deep White Systems, we believe in the power of AI to transform businesses and
 
 ## Services
 
-### AI Consulting
-
-We offer expert AI consulting services to help businesses leverage the full potential of artificial intelligence. Whether you need assistance with strategy, implementation, or optimization, our consultants are here to guide you.
 
 ### Custom AI Solutions
 
