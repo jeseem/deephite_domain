@@ -1,12 +1,13 @@
 ---
+
 layout: page 
 title: Deep White Systems
 ---
-# Welcome to Deep White Systems
-
-<!-- Adjust the size of the logo using HTML -->
 <img src="/DeepWhitelogo.png" alt="Deep White Systems Logo" width="100" height="auto">
 
+
+
+# Welcome to Deep White Systems
 
 ---
 
@@ -14,12 +15,17 @@ title: Deep White Systems
 <img src="/wave.png">
 
 
-## Who are we currently in stealth 
+## We are currently in stealth mode
 
-</div>
-## Contact Us
+
+# Contact Us
 
 <div class="contact">
-  <p>Ready to harness the power of AI for your business?</p>
-  <a href="/contact/" class="btn-secondary">Contact Us</a>
+  ## Contact Us
+  <p>Ready to harness the power of AI for your Software Infrastructure?</p>
+  
+  <ul>
+    
+    <li><a href="https://www.linkedin.com/in/jeseem/">LinkedIn</a></li>
+  </ul>
 </div>
